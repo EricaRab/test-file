@@ -1,0 +1,11 @@
+# Ignorer les fichiers temporaires de Word et Excel
+~$*
+
+# Ignorer les fichiers système inutiles
+.DS_Store
+Thumbs.db
+
+# Ignorer les sauvegardes automatiques
+*.bak
+*.tmp
+*.swp

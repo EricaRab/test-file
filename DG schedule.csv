@@ -1,0 +1,46 @@
+Heure,Jour,Tâche,Catégorie,Remarques
+07h–08h,Lundi,Revue e-mails urgents,Général,Prioriser la journée
+08h–09h,Lundi,Signature décaissements / achats,Finance,"Bons de commande, paie"
+09h–10h,Lundi,Point logistique & livraisons,Logistique,Suivi camions / matériel
+10h–11h,Lundi,Réunion assistant(e),Général,Point sur les urgences
+11h–12h,Lundi,Suivi fournisseurs & achats,Logistique,Commandes en attente
+13h–14h,Lundi,Traitement priorités + appels,Général,Suivi décisions
+14h–15h,Lundi,Réunion projet / stratégie,Général,Avancement chantier
+15h–16h,Lundi,Revue Outlook / Tâches,Général,Mise à jour priorités
+16h–17h,Lundi,Urgences restantes,Général,Temps libre stratégique
+07h–08h,Mardi,Revue e-mails urgents,Général,
+08h–09h,Mardi,Validation demandes d’approvisionnement,Logistique,
+09h–10h,Mardi,Suivi matériel,Logistique,Entrées / sorties
+10h–11h,Mardi,Réunion financière,Finance,
+11h–12h,Mardi,Réponses clients / partenaires,Général,
+13h–14h,Mardi,Suivi RH / contrats,Général,
+14h–15h,Mardi,Visite chantier ou entrepôt,Logistique,
+15h–16h,Mardi,Contrôle qualité chantier,QHSE,
+16h–17h,Mardi,Appels de clôture,Général,
+07h–08h,Mercredi,Revue e-mails urgents,Général,
+08h–09h,Mercredi,Signature contrats / prestations,Finance,
+09h–10h,Mercredi,Suivi stock / chantier,Logistique,
+10h–11h,Mercredi,Préparation réunions clients,Général,
+11h–12h,Mercredi,Suivi juridique & conformité,Général,
+13h–14h,Mercredi,Dossiers à signer,Général,
+14h–15h,Mercredi,Appui aux équipes,Général,
+15h–16h,Mercredi,Analyse litiges / incidents,QHSE,
+16h–17h,Mercredi,Visite partenaire,Général,
+07h–08h,Jeudi,Revue e-mails urgents,Général,
+08h–09h,Jeudi,Validation bons de commandes,Finance,
+09h–10h,Jeudi,Point IT + logiciels chantiers,IT,
+10h–11h,Jeudi,Analyse indicateurs chantiers,Général,
+11h–12h,Jeudi,Coordination sous-traitants,Logistique,
+13h–14h,Jeudi,Notes internes / mails stratégiques,Général,
+14h–15h,Jeudi,Suivi appels d’offres / planning,Finance,
+15h–16h,Jeudi,Traitement administratif restant,Général,
+16h–17h,Jeudi,Évaluation fournisseurs,Logistique,
+07h–08h,Vendredi,Revue e-mails + bilan,Général,
+08h–09h,Vendredi,Signature factures & acomptes,Finance,
+09h–10h,Vendredi,Point QHSE (sécurité & incidents),QHSE,
+10h–11h,Vendredi,Clôture dossiers administratifs,Général,
+11h–12h,Vendredi,Réunion avec chefs de chantier,Général,
+13h–14h,Vendredi,Synthèse hebdo / décisions,Général,
+14h–15h,Vendredi,Rapport de gestion / budget,Finance,
+15h–16h,Vendredi,Préparation réunion hebdo,Général,
+16h–17h,Vendredi,Réunion de clôture semaine,Général,
